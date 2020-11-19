@@ -14,5 +14,21 @@ Text Domain: businessup-child
 */
 
 .site-title>a {
-    color: beige !important;
+    color: black !important;
+}
+
+.wpforms-submit-container button {
+    border-radius: 5px !important;
+}
+
+.businessup-head-detail.hidden-xs.hidden-sm {
+    display: none !important;
+}
+
+.businessup-breadcrumb-section>.overlay>.container {
+    display: none !important;
+}
+
+.header-widget .businessup-header-box-icon i {
+    background: none !important;
 }
